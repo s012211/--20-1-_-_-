@@ -1,0 +1,11 @@
+﻿  Lab-11.cpp
+C:\Users\user\source\repos\Lab-11\Lab-11\Lab-11.cpp(11,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\user\source\repos\Lab-11\Lab-11\Lab-11.cpp(165,17): warning C4477: "fprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "char *"
+C:\Users\user\source\repos\Lab-11\Lab-11\Lab-11.cpp(198,16): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char (*)[55]"
+C:\Users\user\source\repos\Lab-11\Lab-11\Lab-11.cpp(198,16): message : рекомендуется использовать "%hhd" в строке форматирования
+C:\Users\user\source\repos\Lab-11\Lab-11\Lab-11.cpp(202,16): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char (*)[55]"
+C:\Users\user\source\repos\Lab-11\Lab-11\Lab-11.cpp(202,16): message : рекомендуется использовать "%hhd" в строке форматирования
+C:\Users\user\source\repos\Lab-11\Lab-11\Lab-11.cpp(210,17): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char (*)[55]"
+C:\Users\user\source\repos\Lab-11\Lab-11\Lab-11.cpp(210,17): message : рекомендуется использовать "%hhd" в строке форматирования
+C:\Users\user\source\repos\Lab-11\Lab-11\Lab-11.cpp(218,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab-11.vcxproj -> C:\Users\user\source\repos\Lab-11\Debug\Lab-11.exe
