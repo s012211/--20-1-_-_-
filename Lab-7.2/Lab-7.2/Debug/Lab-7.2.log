@@ -1,0 +1,4 @@
+﻿  Lab-7.2.cpp
+C:\Users\user\source\repos\LAB_1smstr\Lab-7.2\Lab-7.2\Lab-7.2.cpp(11,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\source\repos\LAB_1smstr\Lab-7.2\Lab-7.2\Lab-7.2.cpp(46,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab-7.2.vcxproj -> C:\Users\user\source\repos\LAB_1smstr\Lab-7.2\Debug\Lab-7.2.exe
